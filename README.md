@@ -4,6 +4,8 @@
 
 A modern, professional corporate website for Kawser PLC, a diversified Ethiopian business group with over 20 years of experience across retail, minerals, machinery, logistics, and large-scale trade.
 
+🌐 **Live Site**: https://kawuserplc.vercel.app/
+
 ## 🌟 Features
 
 - **Modern Design**: Clean, professional UI with navy blue and gold color scheme
@@ -116,8 +118,7 @@ kawser-trust/
 │   │   └── for rent/       # Vehicle rental images
 │   ├── sitemap.xml         # SEO sitemap
 │   ├── robots.txt          # Crawler instructions
-│   ├── _headers            # Netlify headers
-│   ├── .htaccess           # Apache configuration
+│   ├── hero.jpg            # Hero banner image
 │   └── favicon.svg
 ├── src/
 │   ├── components/         # Reusable UI components
@@ -246,11 +247,9 @@ Configured with:
 - [ ] Verify all routes work
 - [ ] Check robots.txt is accessible
 
-### Deployment Platforms
-- **Netlify**: Automatic deployment with `_headers` support
-- **Vercel**: Zero-config deployment
-- **Apache**: Use `.htaccess` for configuration
-- **Nginx**: Configure caching and compression
+### Deployment
+
+This project is deployed on **Vercel** with zero-config deployment and automatic CI/CD integration.
 
 ### Post-deployment
 1. Submit sitemap to Google Search Console
