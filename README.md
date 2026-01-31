@@ -1,4 +1,4 @@
-![Kawser PLC - Building Trust Across Industries](./public/images/kawser-hero.jpg)
+![Kawser PLC - Building Trust Across Industries](./public/hero.jpg)
 
 # Kawser PLC - Corporate Website
 
